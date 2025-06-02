@@ -1,0 +1,6 @@
+
+--ESTO ES UN COMENTARIO DE UNA LINEA EN SQL 
+
+
+
+SELECT SUM (age) FROM users WHERE users; 
